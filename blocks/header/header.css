@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 16px;
+    display: flex;
+    min-height: 42px;
+    min-width: 288px;
+  }
+
+  @media (min-width: 768px) {
+    .header {
+      padding: 28px 24px;
+
+    } 
+}
+
