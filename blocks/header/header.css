@@ -3,7 +3,6 @@
     justify-content: space-between;
     align-items: end;
     padding: 16px;
-    display: flex;
     min-height: 42px;
     min-width: 288px;
   }
