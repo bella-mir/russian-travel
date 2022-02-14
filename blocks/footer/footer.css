@@ -3,7 +3,7 @@
   padding: 20% 5% 7.5% 5%;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
   .footer {
     display: flex;
     flex-direction: row;
