@@ -1,8 +1,28 @@
 .cover{
     text-decoration: none;
     background-image: url("../../../images/__background.png");
-    background-repeat: no-repeat;
-    background-size: auto;
-    min-width: 100%;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
     position: relative;
+    text-decoration: none;
 }
+
+.cover::before {
+    content: ''; 
+    display: block;
+    width: 100%;
+    padding-bottom: 62.5%; 
+    background: #000;
+    opacity: .3;
+  }
+
+  .cover:hover::before {
+    opacity: .7;
+  }
+
+  @media (min-width:1280px) {
+    .cover{
+        max-width: 100% - 76px;
+    }
+  }

@@ -2,15 +2,22 @@
     display: flex;
     justify-content: space-between;
     align-items: end;
-    padding: 16px;
+    padding: 5% 5% 0 5%;
     min-height: 42px;
     min-width: 288px;
   }
 
   @media (min-width: 768px) {
     .header {
-      padding: 28px 24px;
+      padding: 28px 24px 0 24px;
 
     } 
+}
+
+@media (min-width: 1024px) {
+  .header {
+    padding: 28px 48px 0 48px;
+
+  } 
 }
 

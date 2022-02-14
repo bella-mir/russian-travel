@@ -3,7 +3,7 @@ font-weight: 900;
 font-size: 40px;
 line-height: 44px;
 text-align: center;
-margin: 32px 16px 16px 16px;
+margin: 0;
 }
 
 @media (min-width: 768px) {

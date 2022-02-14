@@ -1,0 +1,11 @@
+.place__header{
+}
+
+
+
+@media screen and (min-width: 768px) {
+.place__header{
+    display: flex;
+    margin-bottom: 48px;
+}
+}
