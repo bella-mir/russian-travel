@@ -1,14 +1,14 @@
-.footer{
-    margin: 0;
-    padding: 20% 5% 7.5% 5%;
+.footer {
+  margin: 0;
+  padding: 20% 5% 7.5% 5%;
 }
 
-@media screen and (min-width:600px) {
-    .footer {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      align-items: flex-end;
-      padding: 88px 24px 24px 24px;
-    }
+@media screen and (min-width: 600px) {
+  .footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 88px 24px 24px 24px;
   }
+}

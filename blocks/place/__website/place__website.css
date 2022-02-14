@@ -2,8 +2,6 @@
   margin: 32px 0;
 }
 
-
-
 @media screen and (min-width: 768px) {
   .place__website {
     margin: 0px 0 0 28px;
@@ -15,6 +13,5 @@
 @media screen and (min-width: 1024px) {
   .place__website {
     margin-left: 32px;
-
   }
 }

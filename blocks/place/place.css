@@ -1,20 +1,15 @@
 .place {
-    width: 100%;
-    min-height: auto;
-    padding-bottom: 50px;
+  width: 100%;
+  min-height: auto;
+  padding-bottom: 50px;
+}
+
+.place:last-child {
+  padding-bottom: 0;
+}
+
+@media (min-width: 762px) {
+  .place {
+    padding-bottom: 73px;
   }
-
-  .place:last-child{
-    padding-bottom: 0;
-  }
-
-  @media (min-width:762px) {
-
-    .place {
-      padding-bottom: 73px;
-    }
-
-  }
-
-
-  
+}
