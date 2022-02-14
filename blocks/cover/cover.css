@@ -5,7 +5,6 @@
   background-position: center;
   width: 100%;
   position: relative;
-  text-decoration: none;
 }
 
 .cover::before {
