@@ -9,6 +9,15 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
-    padding: 88px 24px 24px 24px;
+    padding: 88px 3.1% 24px 3.1%;
   }
 }
+
+
+@media screen and (min-width: 1024px) {
+  .footer {
+    padding: 88px 4.7% 24px 4.7%;
+  }
+}
+
+

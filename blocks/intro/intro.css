@@ -1,22 +1,22 @@
 .intro {
-  padding: 64px 16px;
+  padding: 64px 20%;
 }
 
 @media (min-width: 768px) {
   .intro {
-    padding: 88px 24px;
+    padding: 88px 3.1%;
   }
 }
 
 @media (min-width: 1024px) {
   .intro {
-    padding: 92px 48px;
+    padding: 92px 4.7%;
     max-width: 690px;
   }
 }
 
 @media (min-width: 1280px) {
   .intro {
-    padding: 92px 148px;
+    padding: 92px 11.6%;
   }
 }

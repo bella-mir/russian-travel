@@ -1,25 +1,25 @@
 .photo-grid__item {
-  width: 100% - 32px;
+  width: 100% - 10%;
   height: auto;
 }
 
 @media (min-width: 768px) {
   .photo-grid__item {
-    width: 46%;
+    max-width: calc((100% - 6.2% - 16px)/2);
     height: auto;
   }
 }
 
 @media (min-width: 1024px) {
   .photo-grid__item {
-    width: 30%;
+    max-width: calc((100% - 9.4% - 32px)/3);
     height: auto;
   }
 }
 
 @media (min-width: 1280px) {
   .photo-grid__item {
-    width: 22%;
+    max-width: calc((100% - 9.4% - 48px)/3);
     height: auto;
   }
 }
