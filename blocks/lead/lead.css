@@ -1,10 +1,10 @@
 .lead {
-  padding: 15% 5% 0 5%;
+  padding-top: 15%;
 }
 
 @media (min-width: 768px) {
   .lead {
-    padding: 48px 24px 0 24px;
+    padding-top: 48px;
   }
 }
 

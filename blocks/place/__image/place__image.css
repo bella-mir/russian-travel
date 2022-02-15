@@ -1,8 +1,7 @@
 .place__image {
   box-sizing: border-box;
-  width: 110%;
-  height: 110%;
-  margin: 0 -5%;
+  width: 100%;
+  height: 100%;
 }
 
 @media (min-width: 768px) {

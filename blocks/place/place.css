@@ -5,11 +5,14 @@
 }
 
 .place:last-child {
-  padding-bottom: 0;
+  padding-bottom: 66px;
 }
 
-@media (min-width: 762px) {
+@media (min-width: 768px) {
   .place {
     padding-bottom: 73px;
+  }
+  .place:last-child {
+    padding-bottom: 0;
   }
 }

@@ -1,6 +1,7 @@
 .lead__image {
   box-sizing: border-box;
-  width: 110%;
+  width: 100%;
   height: auto;
-  margin: 0 -5%;
 }
+
+
