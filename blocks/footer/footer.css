@@ -1,6 +1,6 @@
 .footer {
   margin: 0;
-  padding: 20% 5% 7.5% 5%;
+  padding: 64px 5% 24px 5%;
 }
 
 @media screen and (min-width: 768px) {
@@ -13,11 +13,8 @@
   }
 }
 
-
 @media screen and (min-width: 1024px) {
   .footer {
     padding: 88px 4.7% 24px 4.7%;
   }
 }
-
-

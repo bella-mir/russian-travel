@@ -1,11 +1,5 @@
 .lead {
-  padding-top: 15%;
-}
-
-@media (min-width: 768px) {
-  .lead {
-    padding-top: 48px;
-  }
+  padding-top: 48px;
 }
 
 @media (min-width: 1024px) {

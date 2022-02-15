@@ -5,7 +5,7 @@
 
 @media (min-width: 768px) {
   .photo-grid__item {
-    max-width: calc((100% - 6.2% - 16px)/2);
+    width: calc(100%/2 - 3.1% - 8px);
     height: auto;
   }
 }
@@ -19,7 +19,7 @@
 
 @media (min-width: 1280px) {
   .photo-grid__item {
-    max-width: calc((100% - 9.4% - 48px)/3);
+    max-width: calc((100% - 15% - 48px)/4);
     height: auto;
   }
 }
