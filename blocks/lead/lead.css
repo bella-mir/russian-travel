@@ -11,5 +11,7 @@
 @media (min-width: 1280px) {
   .lead {
     padding: 56px 11.6% 0 11.6%;
+    max-width: 984px;
+    margin: 0 auto;
   }
 }

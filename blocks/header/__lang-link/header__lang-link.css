@@ -4,6 +4,7 @@
   line-height: 20px;
   margin-right: 20px;
   font-weight: normal;
+  text-decoration: none;
 }
 
 .header__lang-link:hover {
@@ -11,7 +12,6 @@
 }
 
 .header__lang-link:last-child {
-  text-decoration: none;
   margin-right: 0;
 }
 

@@ -1,5 +1,5 @@
 .photo-grid__item {
-  width: 100% - 10%;
+  width: 90%;
   height: auto;
 }
 
@@ -19,7 +19,7 @@
 
 @media (min-width: 1280px) {
   .photo-grid__item {
-    max-width: calc((100% - 15% - 48px)/4);
+    max-width: calc((100% - 7.5% - 48px)/4);
     height: auto;
   }
 }

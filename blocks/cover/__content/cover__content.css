@@ -1,9 +1,8 @@
 .cover__content {
   display: grid;
-  grid-template: "container";
+  grid-template: container;
   place-items: center;
   place-content: center;
-  overflow: hidden;
   width: 100%;
   height: auto;
   color: white;
@@ -14,6 +13,6 @@
 
 @media (min-width: 1280px) {
   .cover__content {
-    max-width: 92%;
+    max-width: 1184px;
   }
 }

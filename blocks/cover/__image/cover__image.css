@@ -6,11 +6,3 @@
   position: relative;
 }
 
-.cover__image::before {
-  grid-area: container;
-  content: "";
-  position: relative;
-  background: black;
-  opacity: 0.4;
-  transition: opacity 200ms ease-out;
-}
