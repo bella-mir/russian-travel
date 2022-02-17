@@ -9,5 +9,6 @@
   .footer__menu {
     flex-direction: row;
     align-items: flex-end;
+    gap: 18px;
   }
 }

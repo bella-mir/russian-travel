@@ -6,20 +6,17 @@
 @media (min-width: 768px) {
   .photo-grid__item {
     width: calc(100%/2 - 3.1% - 8px);
-    height: auto;
   }
 }
 
 @media (min-width: 1024px) {
   .photo-grid__item {
     max-width: calc((100% - 9.4% - 32px)/3);
-    height: auto;
   }
 }
 
 @media (min-width: 1280px) {
   .photo-grid__item {
     max-width: calc((100% - 7.5% - 48px)/4);
-    height: auto;
   }
 }
