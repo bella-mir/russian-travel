@@ -1,15 +1,46 @@
-# Проект: Путешествие по России
+# Project:  "Russian-Travel"
 
 
-**О задании**
+## Created as one of the [Yandex.Praktikum](https://praktikum.yandex.com/) Bootcamp projects
 
-Этот проект о путешествии по России.
-Задание выполнено в рамках обучения на программе "веб-разработчик" в Яндекс-Практикуме. 
-В приложении отрабатываются основные навыки работы в html и css. Сайт адаптивен: отображение его содержимого подстраивается под размеры различных экарнов. Это было реализовано с помощью медиазапросов. 
+[Github Pages](https://belka-mironova.github.io/russian-travel/)
 
-**GitHub**
+**Description**
 
-* [Ссылка на готовую работу на GitHub](https://belka-mironova.github.io/russian-travel/)
+Russian-Travel is a single page website about travelling across Russia.
+
+
+Adaptive design
+Flexbox
+Grid Layout
+Positioning Elements
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/belka-mironova/russian-travel.git
+   ```
+
+## Functionality: 
+
+* Add and remove pictures 
+* "Like" pictures
+* Edit user profile 
+
+## Languages: 
+
+* HTML, CSS 
+
+## Design Brief in Figma: 
+
+* [Brief](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0) 
+
+
+
+
+
 
 
 
