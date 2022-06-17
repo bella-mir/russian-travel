@@ -25,9 +25,10 @@ Positioning Elements
 
 ## Functionality: 
 
-* Add and remove pictures 
-* "Like" pictures
-* Edit user profile 
+*Adaptive design
+*Flexbox
+*Grid Layout
+*Positioning Elements
 
 ## Languages: 
 
