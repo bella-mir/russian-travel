@@ -3,7 +3,7 @@
 
 ## Created as one of the [Yandex.Praktikum](https://praktikum.yandex.com/) Bootcamp projects
 
-[Github Pages](https://belka-mironova.github.io/russian-travel/)
+[Github Pages](https://bella-mir.github.io/russian-travel/)
 
 **Description**
 
@@ -20,7 +20,7 @@ Positioning Elements
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/belka-mironova/russian-travel.git
+   git clone https://github.com/bella-mir/russian-travel.git
    ```
 
 ## Functionality: 
